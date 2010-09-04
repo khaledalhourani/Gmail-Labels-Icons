@@ -1,0 +1,24 @@
+Gmail Labels Icons
+==========
+This Greasemonkey script adds cool icons to your labels instead of only colors.
+
+
+How to use it?
+------------
+Install 'Greasemonkey':https://addons.mozilla.org/firefox/addon/748 Firefox Addon.
+Restart Firefox for sure.
+Go to 'gmail_labels_icons.user.js':http://userscripts.org/scripts/show/85421 and click Install.
+Now refresh your Gmail inbox page
+Click on the square besides any label (the same color square) and tada! you'll see the icons above the colors
+
+
+Common issues
+------------
+It's still an alpha testing script
+It may take time to show the icons because my server is slower than Gmail, duh!
+You can't set back colors instead of icons (I'm trying to solve it very soon)
+
+
+Improvments
+------------
+Bug reports, features, new icon set? contact me me[at]khaledalhourani[dot]com
